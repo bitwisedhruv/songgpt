@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"songgpt-cefda","appId":"1:490033109654:android:3611b8d2f4ecafd5df40b7","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"songgpt-cefda","configurations":{"android":"1:490033109654:android:3611b8d2f4ecafd5df40b7","ios":"1:490033109654:ios:2b0dd8957e0efb07df40b7"}}}}}}

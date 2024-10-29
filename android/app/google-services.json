@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "490033109654",
+    "project_id": "songgpt-cefda",
+    "storage_bucket": "songgpt-cefda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490033109654:android:3611b8d2f4ecafd5df40b7",
+        "android_client_info": {
+          "package_name": "com.bitwisedhruv.songgpt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490033109654-77733cn7q90agdb1qpdoggbfvm83nfu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxA8BsPDJQVYqWMiFnukLLIgoaz8QFQME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490033109654-77733cn7q90agdb1qpdoggbfvm83nfu1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "490033109654-dsbcbib91ea7aspmv8gbooqeicumoq73.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bitwisedhruv.songgpt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
